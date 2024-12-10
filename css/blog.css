@@ -1,0 +1,191 @@
+.startup-info-text-area {
+  padding: 182px 81px 0;
+  position: absolute;
+}
+.info-location-startup {
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  letter-spacing: 3px;
+}
+.bold-startup {
+  font-weight: 900;
+}
+.inspiration-startup {
+  font-size: 56px;
+  font-weight: 700;
+  max-width: 850px;
+  padding: 24px 0 24px 0;
+}
+.name-owner-startup {
+  padding-bottom: 16px;
+}
+.color-name {
+  color: gold;
+}
+.parag-info-startup {
+  max-width: 599px;
+}
+.button-startup-container {
+  padding-top: 42px;
+}
+.btn-link-startup {
+  background-color: #ffd050;
+  color: black;
+  border: none;
+  height: 56px;
+  font-weight: 700;
+  width: 100%;
+  max-width: 204px;
+  border-radius: 0px;
+  transition: border-radius 0.3s ease;
+}
+.btn-link-startup:hover {
+  background-color: darksalmon;
+  border-radius: 15px;
+  color: white;
+}
+.featured-post-container {
+  background-color: #f4f0f8;
+  display: flex;
+  justify-content: center;
+  gap: 12%;
+  padding: 94px 80px 94px 80px;
+}
+.inspiration-featured-post {
+  font-size: 36px;
+  max-width: 624px;
+}
+.link-owner-startup {
+  text-decoration: none;
+}
+.link-owner-startup:hover {
+  color: orange;
+}
+.section2-container {
+  padding: 120px 100px 120px 100px;
+}
+.section3-container {
+  padding: 0 100px 120px 100px;
+}
+.title-of-section-posts {
+  font-size: 48px;
+  border-bottom: 1px solid grey;
+  padding-bottom: 32px;
+}
+.columns-posts-container {
+  padding-top: 64px;
+}
+.title-column-startup-tips {
+  font-weight: 600;
+  color: #592ea9;
+  letter-spacing: 2px;
+}
+
+.large-info-text-startup-tips {
+  font-size: 36px;
+  padding: 32px 0 28px 0;
+}
+.text-info-startup-tips-container {
+  max-width: 650px;
+}
+
+.columns-posts-container {
+  margin: 0 auto;
+}
+.columns-posts-container {
+  position: relative;
+  overflow: hidden;
+}
+
+.column-startup-tips {
+  display: none;
+  transition: transform 0.5s ease;
+}
+
+.column-startup-tips.active {
+  display: flex;
+  gap: 10%;
+  justify-content: center;
+  align-items: center;
+}
+
+.navigation-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.nav-button {
+  background: none;
+  border-radius: 10px;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  font-size: 18px;
+  transition: font-size 0.3s, font-weight 0.3s; /* Плавный переход */
+}
+.nav-button:hover {
+  background-color: #ffd050;
+}
+.nav-button.active {
+  font-size: 24px; /* Увеличиваем размер текста */
+  font-weight: bold; /* Делаем текст жирнее */
+}
+.title-of-section4 {
+  font-size: 36px;
+  padding-bottom: 48px;
+}
+.name-of-block-business {
+  font-size: 28px;
+  padding: 16px 0 8px 0;
+}
+
+.category1-business {
+  border: 1px solid #6d6e76;
+  padding: 50px;
+  max-width: 244px;
+}
+.blocks-category-container {
+  display: flex;
+  gap: 32px;
+  justify-content: center;
+}
+.start-up-block-container {
+  background-color: #ffd050;
+  border: none;
+}
+.backg-color-image-startup {
+  background-color: #fbf6ea;
+  padding: 10px;
+  border-radius: 10px;
+}
+.backg-color-for-image-business {
+  background-color: #f4f0f8;
+  border-radius: 10px;
+}
+.text-block-reasons-started-container {
+  max-width: 706px;
+  position: relative;
+  background-color: white;
+  bottom: 500px;
+  left: 579px;
+  padding: 80px;
+}
+.join-career-container {
+  text-align: center;
+}
+.title-info-join-career {
+  font-size: 36px;
+  max-width: 414px;
+  margin: 0 auto;
+}
+.parag-info-about-team-join-career {
+  padding: 16px 0 32px 0;
+  max-width: 405px;
+  margin: 0 auto;
+  color: #6d6e76;
+}
+
+.section4-container {
+  padding: 0 0 120px 0;
+}

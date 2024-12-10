@@ -1,0 +1,111 @@
+.section1-container {
+  padding: 128px 100px 0 100px;
+  display: flex;
+  justify-content: center;
+}
+.name-owner-startup-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.name-of-owner {
+  color: #592ea9;
+  font-size: 22px;
+}
+.date-posted-startup,
+.parag-info-of-column1,
+.parag-info-about-new {
+  color: #6d6e76;
+}
+.title-info-from-owner-startup {
+  font-size: 48px;
+  padding: 24px 0 34px 0;
+  max-width: 768px;
+}
+.section2-container {
+  padding: 64px 100px 0 100px;
+}
+.title-image-women {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 64px;
+}
+.title-of-column1 {
+  font-size: 36px;
+  padding-bottom: 22px;
+}
+.column1-info-text {
+  max-width: 843px;
+  margin: 0 auto;
+}
+.parag-info-of-column1 {
+  line-height: 28px;
+}
+.columns-info-text-container {
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+}
+.parag-padding-lorems {
+  padding: 23px 0 24px 0;
+}
+.info-list-style-lorem {
+  font-size: 24px;
+  padding-top: 10px;
+}
+.title-of-section-info-reads {
+  padding-bottom: 64px;
+}
+.section3-container,
+.section4-container {
+  padding: 120px 25px 120px 45px;
+  border-bottom: 1px solid grey;
+}
+.creator-link-to-page {
+  color: purple;
+}
+.creator-new {
+  padding-top: 32px;
+}
+.large-info-new {
+  font-size: 28px;
+  padding: 16px 0 16px 0;
+}
+.colums-news-info-container {
+  max-width: 405px;
+}
+.colums-news-info-container {
+  display: flex;
+  gap: 20%;
+}
+.join-career-container {
+  text-align: center;
+}
+.title-info-join-career {
+  font-size: 36px;
+  max-width: 414px;
+  margin: 0 auto;
+}
+.parag-info-about-team-join-career {
+  padding: 16px 0 32px 0;
+  max-width: 405px;
+  margin: 0 auto;
+  color: #6d6e76;
+}
+.btn-link-startup {
+  background-color: #ffd050;
+  color: black;
+  border: none;
+  height: 56px;
+  font-weight: 700;
+  width: 100%;
+  max-width: 204px;
+  border-radius: 0px;
+  transition: border-radius 0.3s ease;
+}
+.btn-link-startup:hover {
+  border-radius: 15px;
+  color: #fff;
+  background-color: darksalmon;
+  transition: border-radius 0.3s ease;
+}

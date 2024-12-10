@@ -1,0 +1,387 @@
+.section1-container {
+  background-image: url(./img/man-in-black-suit-wearing-eye-glasses-sitting-on-gray-sofa-using-macbook-3772622.png);
+  background-size: cover;
+  height: 850px;
+  color: white;
+}
+
+.startup-info-text-area {
+  padding: 182px 81px 0;
+  position: absolute;
+}
+.info-location-startup {
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  letter-spacing: 3px;
+}
+.bold-startup {
+  font-weight: 900;
+}
+.inspiration-startup {
+  font-size: 56px;
+  font-weight: 700;
+  max-width: 850px;
+  padding: 24px 0 24px 0;
+}
+.name-owner-startup {
+  padding-bottom: 16px;
+}
+.color-name {
+  color: gold;
+}
+.parag-info-startup {
+  max-width: 599px;
+}
+.button-startup-container {
+  padding-top: 42px;
+}
+.btn-link-startup {
+  background-color: #ffd050;
+  color: black;
+  border: none;
+  height: 56px;
+  font-weight: 700;
+  width: 100%;
+  max-width: 204px;
+  border-radius: 0px;
+  transition: border-radius 0.3s ease;
+}
+.btn-link-startup:hover {
+  background-color: darksalmon;
+  border-radius: 15px;
+  color: white;
+}
+.link-owner-startup {
+  text-decoration: none;
+  color: gold;
+}
+.link-owner-startup:hover {
+  color: darksalmon;
+}
+.dark-image-section1 {
+  position: absolute;
+  background-size: cover;
+  width: 100%;
+  height: 850px;
+}
+.info-image-container {
+  border: 1px solid #6d6e76;
+  max-width: 668px;
+  border-radius: 2px;
+  padding: 32px;
+}
+.section2-container {
+  padding: 128px 80px 128px 80px;
+  display: flex;
+  gap: 70px;
+  justify-content: center;
+}
+.title-featured {
+  font-size: 36px;
+  padding: 0 0 32px 0;
+}
+.change-color-john-doe {
+  color: blue;
+}
+.informator-of-news {
+  font-size: 14px;
+  font-weight: 500;
+  padding: 32px 0 16px 0;
+}
+.title-info-from-informator {
+  font-size: 33px;
+
+  padding-bottom: 16px;
+}
+.description-from-informator {
+  font-size: 16px;
+  padding-bottom: 32px;
+}
+.link-to-all-posts {
+  color: #592ea9;
+  text-decoration: none;
+}
+.title-container-posts {
+  display: flex;
+}
+.date-import-info-figma {
+  font-size: 14px;
+}
+.title-info-block1 {
+  font-size: 24px;
+
+  padding: 8px 0 0 0;
+  max-width: 370px;
+}
+.block1-info-figma-container {
+  padding: 32px;
+}
+.background-color-change-block2-figma {
+  background-color: #fbf6ea;
+}
+.all-posts-container {
+  width: 100%;
+  max-width: 520px;
+}
+.section3-container,
+.section4-container,
+.section6-container,
+.section7-container,
+.section8-container,
+.section9-container {
+  padding: 0px 80px 128px 80px;
+}
+.about-container {
+  background-color: #f4f0f8;
+  padding: 96px 80px;
+  display: flex;
+  justify-content: center;
+  gap: 80px;
+}
+.title-about-us {
+  font-weight: 600;
+  letter-spacing: 2px;
+}
+.title-info-about-us {
+  font-size: 36px;
+
+  padding: 24px 0 16px 0;
+}
+.mision-text-info-container {
+  max-width: 515px;
+}
+.about-us-text-info-container {
+  max-width: 515px;
+}
+.link-read-more-about-us {
+  text-decoration: none;
+  font-size: 18px;
+}
+.link-read-more-about-container {
+  padding-top: 16px;
+}
+.title-of-section4 {
+  font-size: 36px;
+  padding-bottom: 48px;
+  text-align: center;
+}
+.name-of-block-business {
+  font-size: 28px;
+  padding: 16px 0 8px 0;
+}
+
+.category1-business {
+  border: 1px solid #6d6e76;
+  padding: 50px;
+  max-width: 244px;
+}
+.blocks-category-container {
+  display: flex;
+  gap: 32px;
+  justify-content: center;
+}
+.start-up-block-container {
+  background-color: #ffd050;
+  border: none;
+}
+.backg-color-image-startup {
+  background-color: #fbf6ea;
+  padding: 10px;
+  border-radius: 10px;
+}
+.backg-color-for-image-business {
+  background-color: #f4f0f8;
+  border-radius: 10px;
+}
+.text-block-reasons-started-container {
+  max-width: 706px;
+  position: relative;
+  background-color: white;
+  bottom: 500px;
+  left: 579px;
+  padding: 80px;
+}
+.section5-container {
+  padding: 0px 80px 0px 80px;
+  height: 900px;
+}
+
+.hidden-image-container {
+  position: relative;
+}
+.font-size-48px {
+  font-size: 48px;
+}
+.social-icons-container {
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+}
+.employer-floyd-n1 {
+  background-color: #f4f4f4;
+  max-width: 204px;
+  text-align: center;
+  padding: 60px 80px;
+}
+.name-of-person-team {
+  padding: 20px 0 10px 0;
+  font-size: 28px;
+}
+.position-in-startup-team {
+  font-size: 14px;
+  color: #6d6e76;
+  padding-bottom: 20px;
+}
+.team-startup-container {
+  display: flex;
+  gap: 32px;
+}
+.person-background-color-danger {
+  background-color: #fbf6ea;
+}
+.title-of-section7 {
+  padding-bottom: 10px;
+}
+.company-logos-container {
+  display: flex;
+  gap: 12%;
+  justify-content: center;
+}
+.reports-people-info {
+  font-size: 36px;
+  padding: 12px 0 16px 0;
+}
+.container-section-testmonials {
+  background-color: #fbf6ea;
+  padding: 80px;
+  display: flex;
+  justify-content: center;
+  gap: 10%;
+}
+.testimonials-container {
+  max-width: 340px;
+  padding-top: 90px;
+
+  border-right: 1px solid gray;
+  height: 310px;
+  padding-right: 50px;
+}
+.info-testimonials-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.testimonial-author {
+  display: flex;
+  align-items: center;
+}
+
+.testimonial-author img {
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+}
+
+.navigation-buttons {
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+  padding-left: 140px;
+}
+#testimonial-text {
+  font-size: 24px;
+  font-weight: 700;
+  max-width: 469px;
+  text-align: left;
+  padding-bottom: 121px;
+}
+#prev-button,
+#next-button {
+  border: none;
+  font-size: 30px;
+}
+#prev-button {
+  background-color: #fff;
+  padding: 5px 10px;
+  border-radius: 15px;
+}
+#next-button {
+  background-color: #232536;
+  color: #fff;
+  padding: 5px 10px;
+  border-radius: 15px;
+}
+#prev-button:hover {
+  background-color: #232536;
+  color: white;
+}
+#next-button:hover {
+  background-color: #fff;
+  color: #232536;
+}
+.join-career-container {
+  text-align: center;
+}
+.title-info-join-career {
+  font-size: 36px;
+  max-width: 414px;
+  margin: 0 auto;
+}
+.parag-info-about-team-join-career {
+  padding: 16px 0 32px 0;
+  max-width: 405px;
+  margin: 0 auto;
+  color: #6d6e76;
+}
+.footer-container {
+  background-color: #232536;
+  padding-top: 60px;
+}
+.logo-nav-container-footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 60px 0 55px 0;
+}
+.emailing-email-container {
+  background-color: #4c4c4c;
+  display: flex;
+  gap: 6%;
+  padding: 86px 64px;
+  justify-content: center;
+}
+.text-info-emailing {
+  color: #fff;
+  font-size: 36px;
+  max-width: 562px;
+}
+.input-container-emailing {
+  display: flex;
+  gap: 24px;
+}
+.input-emailing {
+  height: 56px;
+  background: none;
+  width: 420px;
+  border: 1px solid gray;
+  border-radius: 10px;
+  padding-left: 15px;
+}
+.copyright-container-footer {
+  padding-top: 48px;
+  color: #6d6e76;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.address-of-office {
+  padding-bottom: 5px;
+}
+.social-icons-container-footer {
+  display: flex;
+  gap: 26px;
+}
+.footer-container {
+  padding: 0px 80px 80px 80px;
+}

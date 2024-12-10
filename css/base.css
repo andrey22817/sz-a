@@ -1,0 +1,123 @@
+.wrapper {
+  margin: 0 auto;
+  max-width: 1920px;
+  box-sizing: border-box;
+}
+.font-weight-700 {
+  font-weight: 700;
+}
+.font-size-36px {
+  font-size: 36px;
+}
+.font-16px {
+  font-size: 16px;
+}
+body {
+  margin: 0;
+  font-family: "Sen", sans-serif;
+  font-weight: 400;
+  padding: 0;
+}
+.container-header {
+  background-color: #232536;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  padding: 0px 83px 0px 83px;
+  justify-content: space-between;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+.nav-container-header {
+  display: flex;
+  gap: 24px;
+  a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+  }
+}
+.nav-container-header > a:hover {
+  color: darksalmon;
+}
+.right-header {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+}
+
+.btn-subscribe-header {
+  height: 56px;
+  width: 179px;
+  font-size: 18px;
+  border: none;
+  font-weight: 700;
+  border-radius: 5px;
+  transition: border-radius 0.3s ease;
+}
+.btn-subscribe-header:hover {
+  background-color: darksalmon;
+  color: #fff;
+  border-radius: 15px; /* радиус при наведении */
+  /* border-radius: 10px;
+  transition: border-radius 0.3s ease; */
+}
+.padding-24px {
+  padding: 24px 0 24px 0;
+}
+.font-size-72px {
+  font-size: 72px;
+}
+.footer-container {
+  background-color: #232536;
+  padding-top: 60px;
+}
+.logo-nav-container-footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 60px 0 55px 0;
+}
+.emailing-email-container {
+  background-color: #4c4c4c;
+  display: flex;
+  gap: 6%;
+  padding: 86px 64px;
+  justify-content: center;
+}
+.text-info-emailing {
+  color: #fff;
+  font-size: 36px;
+  max-width: 562px;
+}
+.input-container-emailing {
+  display: flex;
+  gap: 24px;
+}
+.input-emailing {
+  height: 56px;
+  background: none;
+  width: 420px;
+  border: 1px solid gray;
+  border-radius: 10px;
+  padding-left: 15px;
+}
+.copyright-container-footer {
+  padding-top: 48px;
+  color: #6d6e76;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.address-of-office {
+  padding-bottom: 5px;
+}
+.social-icons-container-footer {
+  display: flex;
+  gap: 26px;
+}
+
+.footer-container {
+  padding: 0px 80px 80px 80px;
+}
